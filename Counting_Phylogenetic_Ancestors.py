@@ -1,0 +1,2 @@
+# In an unrooted binary tree with n leaves, there will be n − 2 internal nodes
+# https://en.wikipedia.org/wiki/Unrooted_binary_tree#:~:text=In%20an%20unrooted%20binary%20tree,leaves%20are%20to%20be%20labeled.
